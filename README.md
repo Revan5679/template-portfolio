@@ -1,4 +1,4 @@
-# 🚀 Ultra-Fast Vue Portfolio Template
+# 🚀 Ultra-Fast Vue 3 Portfolio Template
 
 A high-performance, visually stunning, and meticulously engineered portfolio template designed for developers who prioritize speed, stability, and modern aesthetics.
 
