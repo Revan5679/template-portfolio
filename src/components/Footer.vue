@@ -13,7 +13,7 @@
             class="text-xl font-bold tracking-tighter text-white group"
             title="Go to home section"
           >
-            Anjay<span
+            Portfolio<span
               class="text-accent transition-all duration-300 group-hover:text-accentHover"
               >.Code</span
             >
@@ -47,7 +47,7 @@
       <!-- Bottom Bar: Copyright -->
       <div class="mt-12 pt-8 border-t border-white/5 text-center">
         <p class="text-slate-400 text-[13px] tracking-widest uppercase">
-          &copy; {{ new Date().getFullYear() }} Anjay Developer.
+          &copy; {{ new Date().getFullYear() }} Portfolio Developer.
         </p>
       </div>
     </div>

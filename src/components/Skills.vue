@@ -80,45 +80,34 @@ import { Book, Computer, Layout, Server, Wrench } from "lucide-vue-next";
 
 const skillsData = [
   {
-    title: "Frontend Developer",
+    title: "Frontend Development",
     icon: Layout,
     skills: [
-      { name: "React / Next.js", percentage: 35 },
-      { name: "Tailwind CSS/Uno CSS", percentage: 70 },
-      { name: "TypeScript", percentage: 45 },
-      { name: "Astro", percentage: 75 },
-      { name: "Vite + Vue 3", percentage: 65 },
-      { name: "Laravel", percentage: 40 },
-      { name: "MySQL (database)", percentage: 35 },
+      { name: "Vue.js / Nuxt.js", percentage: 90 },
+      { name: "React / Next.js", percentage: 85 },
+      { name: "Tailwind CSS / UnoCSS", percentage: 95 },
+      { name: "TypeScript", percentage: 80 },
+      { name: "HTML5 / CSS3", percentage: 98 },
     ],
   },
   {
-    title: "Microsoft Office",
-    icon: Computer,
+    title: "Backend Development",
+    icon: Server,
     skills: [
-      { name: "Microsoft Word", percentage: 90 },
-      { name: "Microsoft Excel", percentage: 45 },
-      { name: "Microsoft PPT", percentage: 65 },
+      { name: "Node.js / Express", percentage: 75 },
+      { name: "Python / FastAPI", percentage: 70 },
+      { name: "PostgreSQL / MySQL", percentage: 80 },
+      { name: "RESTful APIs", percentage: 85 },
     ],
   },
   {
-    title: "Author/Writer Story",
-    icon: Book,
-    skills: [
-      { name: "storyline", percentage: 95 },
-      { name: "character development", percentage: 85 },
-      { name: "World Building", percentage: 75 },
-      { name: "Pacing", percentage: 84 },
-      { name: "Tone", percentage: 94 },
-    ],
-  },
-  {
-    title: "Tools",
+    title: "Design & Tools",
     icon: Wrench,
     skills: [
+      { name: "Figma", percentage: 85 },
       { name: "Git / GitHub", percentage: 90 },
-      { name: "Microsoft Office", percentage: 70 },
-      { name: "Visual Studio Code", percentage: 60 },
+      { name: "Docker", percentage: 65 },
+      { name: "CI/CD", percentage: 70 },
     ],
   },
 ];

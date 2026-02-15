@@ -53,12 +53,12 @@
                 >2012 - 2018</span
               >
               <h3 class="text-xl md:text-2xl font-bold text-white mb-2">
-                Primary School Plosokerep 01
+                University Name
               </h3>
               <p class="text-slate-300 font-medium mb-4">
-                The beginning of my school journey
+                Bachelor of Science in Information Technology
               </p>
-              <p class="text-slate-400 text-sm leading-relaxed">2012 - 2018</p>
+              <p class="text-slate-400 text-sm leading-relaxed">2018 - 2022</p>
             </article>
           </div>
         </div>
@@ -74,17 +74,16 @@
             >
               <span
                 class="md:hidden block text-accent font-mono text-sm mb-2 font-bold"
-                >2018 - 2021</span
+                >2015 - 2018</span
               >
               <h3 class="text-xl md:text-xl font-bold text-white mb-2">
-                Junior High School 8 Blitar
+                High School Name
               </h3>
               <p class="text-slate-300 font-medium mb-4">
-                Advanced school to Junior High School
+                Science Major
               </p>
               <p class="text-slate-400 text-sm leading-relaxed">
-                Here begins the introduction of material and a very broad
-                friendship environment.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </article>
           </div>
@@ -97,7 +96,7 @@
           <!-- Year Desktop (Right) -->
           <div class="hidden md:block w-5/12 pl-12 reveal-element initial-reveal-state delay-400">
             <span class="text-accent font-mono text-lg font-bold tracking-wider"
-              >2018 - 2021</span
+              >2015 - 2018</span
             >
           </div>
         </div>
@@ -109,7 +108,7 @@
             class="hidden md:block w-5/12 text-right pr-12 reveal-element initial-reveal-state delay-500"
           >
             <span class="text-accent font-mono text-lg font-bold tracking-wider"
-              >2021 - 2023</span
+              >2022 - Present</span
             >
           </div>
 
@@ -125,93 +124,16 @@
             >
               <span
                 class="md:hidden block text-accent font-mono text-sm mb-2 font-bold"
-                >2021 - 2023</span
+                >2022 - Present</span
               >
               <h3 class="text-xl md:text-xl font-bold text-white mb-2">
-                Senior High School 1 Blitar
+                Certification Name
               </h3>
               <p class="text-slate-300 font-medium mb-4">
-                Advanced to Senior High School
+                Professional Course
               </p>
               <p class="text-slate-400 text-sm leading-relaxed">
-                Here I only go to school for 2 years, because it is not
-                compatible with the school environment.
-              </p>
-            </article>
-          </div>
-        </div>
-
-        <!-- Node 2 (Content Left) -->
-        <div class="relative flex items-center mb-16 md:justify-between group">
-          <!-- Content (Left) -->
-          <div
-            class="w-full md:w-5/12 pl-10 md:pl-0 md:pr-12 reveal-element initial-reveal-state delay-300"
-          >
-            <article
-              class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-3xl p-8 md:text-right hover:border-accent/50 hover:-translate-y-1 transition-all duration-500 [backface-visibility:hidden]"
-            >
-              <span
-                class="md:hidden block text-accent font-mono text-sm mb-2 font-bold"
-                >2024</span
-              >
-              <h3 class="text-xl md:text-xl font-bold text-white mb-2">
-                Microsoft Office Course
-              </h3>
-              <p class="text-slate-300 font-medium mb-4">Advanced to course</p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Here I took a Microsoft Office course for 1 month, and studied
-                things like Word, Excel, PPT.
-              </p>
-            </article>
-          </div>
-
-          <!-- Glowing Dot -->
-          <div
-            class="absolute left-4 md:left-1/2 w-4 h-4 bg-accent rounded-full border-4 border-[#0B1120] transform -translate-x-1/2 z-10 shadow-[0_0_20px_rgba(56,189,248,0.8)] group-hover:scale-150 transition-transform duration-500 [backface-visibility:hidden]"
-          ></div>
-
-          <!-- Year Desktop (Right) -->
-          <div class="hidden md:block w-5/12 pl-12 reveal-element initial-reveal-state delay-400">
-            <span class="text-accent font-mono text-lg font-bold tracking-wider"
-              >2024</span
-            >
-          </div>
-        </div>
-
-        <!-- Node 3 (Content Right) -->
-        <div class="relative flex items-center mb-16 md:justify-between group">
-          <!-- Year Desktop (Left) -->
-          <div
-            class="hidden md:block w-5/12 text-right pr-12 reveal-element initial-reveal-state delay-500"
-          >
-            <span class="text-accent font-mono text-lg font-bold tracking-wider"
-              >2024 - Present</span
-            >
-          </div>
-
-          <!-- Glowing Dot -->
-          <div
-            class="absolute left-4 md:left-1/2 w-4 h-4 bg-accent rounded-full border-4 border-[#0B1120] transform -translate-x-1/2 z-10 shadow-[0_0_20px_rgba(56,189,248,0.8)] group-hover:scale-150 transition-transform duration-500 [backface-visibility:hidden]"
-          ></div>
-
-          <!-- Content (Right) -->
-          <div class="w-full md:w-5/12 pl-10 md:pl-12 reveal-element initial-reveal-state delay-600">
-            <article
-              class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-3xl p-8 hover:border-accent/50 hover:-translate-y-1 transition-all duration-500 [backface-visibility:hidden]"
-            >
-              <span
-                class="md:hidden block text-accent font-mono text-sm mb-2 font-bold"
-                >2024 - Present</span
-              >
-              <h3 class="text-xl md:text-xl font-bold text-white mb-2">
-                Terbuka Indonesia University
-              </h3>
-              <p class="text-slate-300 font-medium mb-4">
-                Advanced to University
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                I studied here and majored in Information Systems, from 2024
-                until now.
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
               </p>
             </article>
           </div>

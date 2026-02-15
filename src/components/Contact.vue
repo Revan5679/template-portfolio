@@ -42,10 +42,10 @@
               <div>
                 <p class="text-sm text-slate-400 font-medium">Email Me</p>
                 <a
-                  href="mailto:mohamadazraafi@gmail.com"
+                  href="mailto:hello@example.com"
                   class="text-white font-semibold text-lg hover:text-accent transition-colors duration-300"
                 >
-                  mohamadazraafi@gmail.com
+                  hello@example.com
                 </a>
               </div>
             </div>
@@ -60,7 +60,7 @@
               <div>
                 <p class="text-sm text-slate-400 font-medium">Location</p>
                 <p class="text-white font-semibold text-lg">
-                  Blitar, Indonesia
+                  City, Country
                 </p>
               </div>
             </div>
@@ -77,7 +77,7 @@
             <ul class="wrapper">
               <li class="icon facebook">
                 <a
-                  href="https://www.facebook.com/mohamad.azraafi.16"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center justify-center w-full h-full text-inherit no-underline"
@@ -99,7 +99,7 @@
               </li>
               <li class="icon github">
                 <a
-                  href="https://github.com/Revan5679"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center justify-center w-full h-full text-inherit no-underline"
@@ -122,7 +122,7 @@
               </li>
               <li class="icon instagram">
                 <a
-                  href="https://instagram.com/revanazra5"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center justify-center w-full h-full text-inherit no-underline"
@@ -144,7 +144,7 @@
               </li>
               <li class="icon whatsapp">
                 <a
-                  href="https://wa.me/85143102415"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="flex items-center justify-center w-full h-full text-inherit no-underline"
@@ -318,18 +318,17 @@ const handleSubmit = async () => {
   const sanitizedMessage = sanitize(formData.message);
 
   try {
-    // GANTI ID DI BAWAH INI DENGAN PUNYAMU
     await emailjs.send(
-      "service_5hi2bsn",
-      "template_setowks",
+      import.meta.env.VITE_EMAILJS_SERVICE_ID || "",
+      import.meta.env.VITE_EMAILJS_TEMPLATE_ID || "",
       {
-        from_name: sanitizedName, // Memetakan ke {{from_name}} di dashboard
-        name: sanitizedName, // Memetakan ke {{name}} di dashboard
-        reply_to: formData.email, // Memetakan ke {{reply_to}} di dashboard
-        email: formData.email, // Memetakan ke {{email}} di dashboard
-        message: sanitizedMessage, // Memetakan ke {{message}} di dashboard
+        from_name: sanitizedName,
+        name: sanitizedName,
+        reply_to: formData.email,
+        email: formData.email,
+        message: sanitizedMessage,
       },
-      "lunoHlpjaMYgHBNmU",
+      import.meta.env.VITE_EMAILJS_PUBLIC_KEY || ""
     );
 
     // Reset form setelah berhasil

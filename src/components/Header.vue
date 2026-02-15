@@ -15,7 +15,7 @@
     >
       <!-- Logo -->
       <a href="#" class="text-2xl font-bold tracking-tight text-white" aria-label="Go to home section">
-        My<span class="text-accent">Portfolio</span>.
+        Dev<span class="text-accent">Portfolio</span>.
       </a>
 
       <!-- Desktop Nav -->

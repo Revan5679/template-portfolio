@@ -15,7 +15,7 @@
       <!-- Hero Text -->
       <div class="order-2 md:order-1 space-y-6">
         <p class="reveal-element initial-reveal-state text-accent font-medium tracking-wide">
-          HELLO, I'M M. REVAN GIBRAN A.
+          HELLO, I'M JOHN DOE
         </p>
         <h1
           class="reveal-element initial-reveal-state delay-100 text-5xl md:text-7xl font-bold leading-tight text-white min-h-[160px] md:min-h-[200px]"
@@ -31,7 +31,7 @@
         <p
           class="reveal-element initial-reveal-state delay-200 text-slate-400 text-md max-w-lg leading-relaxed"
         >
-          Creative Frontend Developer and Novelist eager to gain valuable
+          Fullstack Developer eager to gain valuable
           experience and personal growth through high-performance, pixel-perfect
           digital projects.
         </p>
@@ -57,7 +57,7 @@
           <!-- Premium Download CV Button with Tooltip -->
           <div class="group relative w-full sm:w-auto">
             <a
-              href="/CV ku1.pdf"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               class="w-full sm:w-auto px-8 h-[52px] bg-white/5 border border-white/10 rounded-xl flex items-center justify-center gap-2 text-white hover:bg-white/10 hover:shadow-[0_0_20px_rgba(56,189,248,0.2)] active:scale-95 transition-all duration-500 premium-transition [backface-visibility:hidden]"
@@ -88,8 +88,8 @@
       >
         <div class="relative w-64 h-64 aspect-square">
           <img
-            src="/poto ai1.1.webp"
-            alt="M. Revan Gibran A. - Frontend Developer and Novelist Profile Picture"
+            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=256&h=256"
+            alt="John Doe - Fullstack Developer Profile Picture"
             width="256"
             height="256"
             loading="eager"
@@ -113,9 +113,9 @@ const isMounted = ref(false);
 
 // Typewriter Effect
 const words: string[] = [
-  "Frontend Developer",
-  "Creative Web Developer",
-  "Novelist",
+  "Fullstack Developer",
+  "UI/UX Designer",
+  "Tech Enthusiast",
 ];
 let i = 0;
 let timer: number | undefined;

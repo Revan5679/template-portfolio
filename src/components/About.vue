@@ -15,20 +15,11 @@
         <p
           class="reveal-element initial-reveal-state delay-200 text-slate-300 text-lg leading-relaxed"
         >
-          Currently, I work as a freelance novel writer, dedicating my time and
-          creativity to crafting stories that resonate with readers. While this
-          role allows me the flexibility to balance my responsibilities as a
-          student.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
 
         <p class="reveal-element initial-reveal-state delay-300 text-slate-400 leading-relaxed">
-          it also comes with its challenges, such as inconsistent income and the
-          uncertainty of project availability. As much as I enjoy exploring my
-          passion for writing, I am now seeking a more stable, permanent
-          position that aligns with my skills and aspirations. Ideally, I hope
-          to find a job that provides financial security while still allowing me
-          to continue my studies. This step is essential for building a more
-          structured career path and ensuring long-term professional growth.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
       </div>
 
@@ -59,15 +50,14 @@
               <p
                 class="text-xl text-slate-300 font-medium leading-relaxed italic"
               >
-                "My mindset: getting married in poverty is a long-term criminal
-                act"
+                "Strive for excellence in every pixel and line of code."
               </p>
             </div>
 
             <div class="mt-8">
               <span
                 class="text-sm font-semibold tracking-widest text-accent uppercase"
-                >Writer & Coder</span
+                >Developer & Creator</span
               >
             </div>
           </div>
@@ -109,7 +99,7 @@
               >
                 <Film class="text-accent" :size="18" />
 
-                <span class="text-sm text-slate-300">Watch YouTube</span>
+                <span class="text-sm text-slate-300">Photography</span>
               </div>
 
               <div
@@ -117,7 +107,7 @@
               >
                 <Book class="text-accent" :size="18" />
 
-                <span class="text-sm text-slate-300">Reading The Book</span>
+                <span class="text-sm text-slate-300">Open Source</span>
               </div>
             </div>
           </div>
@@ -141,7 +131,7 @@
             <h3 class="text-lg font-bold text-white mb-1">Current Focus</h3>
 
             <p class="text-sm text-slate-400 leading-tight">
-              Exploring the meaning of real life
+              Learning new technologies
             </p>
           </div>
         </article>
@@ -163,7 +153,7 @@
 
             <h3 class="text-lg font-bold text-white mb-1">Fun Fact</h3>
 
-            <p class="text-sm text-slate-400 leading-tight">100% curiosity</p>
+            <p class="text-sm text-slate-400 leading-tight">Always curious</p>
           </div>
         </article>
       </div>
